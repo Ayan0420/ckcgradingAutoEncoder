@@ -1,0 +1,5 @@
+openpyxl==2.6.4
+pandas==0.24.2
+PyAutoGUI==0.9.44
+xlrd==1.2.0
+pyinstaller==4.2
